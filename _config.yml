@@ -117,6 +117,11 @@ events:
                   <a href="https://www.linkedin.com/in/anshulbhagi"><i class='fa fa-linkedin'></i></a>
                   <a href="http://www.instagram.com/abhagi/"><i class='fa fa-instagram'></i></a>
                   <a href="https://angel.co/anshulbhagi"><i class='fa fa-angellist'></i></a>
+  - image: "/img/timeline/laurefischer.jpg"
+    date: "Laure Fischer"
+    description: <a href="http://github.com/LaureMFischer"><i class='fa fa-github'></i></a>
+                 <a href="http://www.linkedin.com/in/laurefischer"><i class='fa fa-linkedin'></i></a>
+                 <a href="http://www.instagram.com/lauremfischer"><i class='fa fa-instagram'></i></a>
 
 # First image of the Timeline
 
@@ -136,8 +141,8 @@ email: "code@studentclubs.hbs.edu"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: 
-author_blurb_image: 
+author_blurb:
+author_blurb_image:
 
 ##################
 # Social Buttons #
@@ -147,7 +152,7 @@ social:
   - title: "github"
     url: "https://github.com/codehbs"
   - title: "twitter"
-    url: "https://twitter.com/codehbs"    
+    url: "https://twitter.com/codehbs"
   - title: "facebook"
     url: "https://facebook.com/codehbs"
   - title: "instagram"
@@ -165,7 +170,7 @@ social:
 # GPG on Keybase #
 ##################
 
-keybase-username: 
+keybase-username:
 keybase-in-social: False
 keybase-in-footer: False
 
